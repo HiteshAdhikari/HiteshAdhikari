@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - 🎆 My other projects :[Digital Clock](https://hiteshadhikari.github.io/Digital_Clock/),[Landing Page](https://hiteshadhikari.github.io/Landing_Page/),[Joke Generator](https://hiteshadhikari.github.io/Joke-Generator-/)
-- ✨ Link to my latest project :[Animation Bar](https://hiteshadhikari.github.io/Animated-Bar/),
+- ✨ Link to my latest project :[Animation Bar](https://hiteshadhikari.github.io/Animated-Bar/)
 
 
 
