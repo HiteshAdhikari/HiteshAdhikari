@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - ✨ Link to my latest project :
-  - [Responsive_website](https://hiteshadhikari.github.io/Responsive_Site/)
+  - [Library App](https://hiteshadhikari.github.io/Library_App/)
 - 🎆 My other projects :
+  - [Responsive_website](https://hiteshadhikari.github.io/Responsive_Site/)
   - [Simple_Website](https://hiteshadhikari.github.io/Simple_Website/)
   - [Rock, Paper and Scissors](https://hiteshadhikari.github.io/Rock-Paper-and-Scissor-Game/)
   - [DRUM_KIT](https://hiteshadhikari.github.io/DRUM_KIT/)
