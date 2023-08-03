@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - ✨ Link to my latest project :
-   - [Tic Tac Toe](https://hiteshadhikari.github.io/Tic_Tac_Toe/)
+   - [Restaurant Page](https://hiteshadhikari.github.io/Restaurant_Page/)
 - 🎆 My other projects :
+  - [Tic Tac Toe](https://hiteshadhikari.github.io/Tic_Tac_Toe/)
   - [Todo App](https://hiteshadhikari.github.io/Todo_List/)
   - [Library App](https://hiteshadhikari.github.io/Library_App/)
   - [Responsive_website](https://hiteshadhikari.github.io/Responsive_Site/)
