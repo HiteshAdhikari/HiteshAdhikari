@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - ✨ Link to my latest project :
-   - [Restaurant Page](https://hiteshadhikari.github.io/Restaurant_Page/)
+   - [Memory Game](memory-game-beta-lac.vercel.app/)
+   - [CV Maker](cv-application-maker.vercel.app)
 - 🎆 My other projects :
+  - [Restaurant Page](https://hiteshadhikari.github.io/Restaurant_Page/)
   - [Tic Tac Toe](https://hiteshadhikari.github.io/Tic_Tac_Toe/)
   - [Todo App](https://hiteshadhikari.github.io/Todo_List/)
   - [Library App](https://hiteshadhikari.github.io/Library_App/)
