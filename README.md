@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - ✨ Link to my latest project :
-   - [Memory Game](memory-game-beta-lac.vercel.app/)
-   - [CV Maker](cv-application-maker.vercel.app)
+   - [Memory Game](https://memory-game-beta-lac.vercel.app/)
+   - [CV Maker](https://cv-application-maker.vercel.app/)
 - 🎆 My other projects :
   - [Restaurant Page](https://hiteshadhikari.github.io/Restaurant_Page/)
   - [Tic Tac Toe](https://hiteshadhikari.github.io/Tic_Tac_Toe/)
